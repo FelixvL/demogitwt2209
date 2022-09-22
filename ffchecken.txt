@@ -1,1 +1,10 @@
 een eerste opmerking
+
+
+
+
+git config --global user.name="felixvl"
+git config --global user.email="felixvl"
+
+
+extra dingen
